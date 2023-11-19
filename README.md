@@ -6,7 +6,6 @@ La aplicación es un rastreador en tiempo real que utiliza la API de MBTA (Autor
 Clona el repositorio que se encuentra en la dirección https://github.com/cesaranibaljimenez/Real-Time-Bus-Tracker/tree/main y abre el archivo index.html en tu navegador.
 
 ## Hoja de Ruta de Futuras Mejoras
-
 -Agregar información adicional de los autobuses como la velocidad o la próxima parada.
 -Permitir  a los usuarios seleccionar la ruta del autobus.
 -Implementar una función de busqueda para encontrar buses específicos.
