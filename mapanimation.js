@@ -39,12 +39,12 @@
             // Carga imágenes personalizadas para los marcadores
 
             const redBusIcon = {
-                url:"https://github.com/cesaranibaljimenez/MBTABUSTRACKER/blob/main/red.png?raw=true",
+                url: "https://github.com/cesaranibaljimenez/Real-Time-Bus-Tracker/blob/main/red.png?raw=true",
                 scaledSize: new google.maps.Size(32, 32)
             };
 
             const blueBusIcon = {
-                url: "https://github.com/cesaranibaljimenez/MBTABUSTRACKER/blob/main/blue.png?raw=true",
+                url: "https://github.com/cesaranibaljimenez/Real-Time-Bus-Tracker/blob/main/blue.png?raw=true",
                 scaledSize: new google.maps.Size(32, 32)
             };
 
