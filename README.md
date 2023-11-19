@@ -3,5 +3,6 @@ La aplicación es un rastreador en tiempo real que utiliza la API de MBTA (Autor
 ![mapa](https://github.com/cesaranibaljimenez/Real-Time-Bus-Tracker/blob/main/Mapa.jpg?raw=true)
 
 ## ¿Cómo usarlo?
-Clona el repositorio 
+Clona el repositorio que se encuentra en la dirección https://github.com/cesaranibaljimenez/Real-Time-Bus-Tracker/tree/main y abre el archivo index.html en tu navegador.
+
 
